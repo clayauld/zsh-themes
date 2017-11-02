@@ -99,7 +99,7 @@ DAVE_COLOR_TIME_BG='059'
 DAVE_COLOR_TIME_FG='255'
 
 DAVE_NO_BLANK_LINE=''
-DAVE_COLOR_END_BG='236'
+DAVE_COLOR_END_BG='233.5'
 
 : <<'END'
 ######### Find correct color code ########
